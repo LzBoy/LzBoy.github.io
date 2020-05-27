@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lzboy.github.io</id>
-    <title>LzBoy</title>
-    <updated>2020-05-27T08:25:43.757Z</updated>
+    <title>灵焱</title>
+    <updated>2020-05-27T08:36:39.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lzboy.github.io"/>
     <link rel="self" href="https://lzboy.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>记录、学习、知识分享</subtitle>
     <logo>https://lzboy.github.io/images/avatar.png</logo>
     <icon>https://lzboy.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, LzBoy</rights>
+    <rights>All rights reserved 2020, 灵焱</rights>
     <entry>
         <title type="html"><![CDATA[Git使用]]></title>
         <id>https://lzboy.github.io/post/git-shi-yong/</id>
