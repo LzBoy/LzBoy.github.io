@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://LzBoy.github.io</id>
+    <title>灵焱</title>
+    <updated>2020-05-27T08:19:28.142Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://LzBoy.github.io"/>
+    <link rel="self" href="https://LzBoy.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://LzBoy.github.io/images/avatar.png</logo>
+    <icon>https://LzBoy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 灵焱</rights>
+    <entry>
+        <title type="html"><![CDATA[Git使用]]></title>
+        <id>https://LzBoy.github.io/post/git-shi-yong/</id>
+        <link href="https://LzBoy.github.io/post/git-shi-yong/">
+        </link>
+        <updated>2020-05-26T03:06:32.000Z</updated>
+        <content type="html"><![CDATA[<p>常用命令：</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac 环境配置]]></title>
+        <id>https://LzBoy.github.io/post/mac-pei-zhi/</id>
+        <link href="https://LzBoy.github.io/post/mac-pei-zhi/">
+        </link>
+        <updated>2020-05-25T14:29:59.000Z</updated>
+        <content type="html"><![CDATA[<p>一、配置hosts：为防止出现域名解析被污染了不能访问的情况<br>
+1.查询网址IP（https://www.ipaddress.com/）：raw.githubusercontent.com和raw.github.com<br>
+2.命令 sudo vi /etc/hosts ，添加host到文件中如图：<br>
+<img src="https://LzBoy.github.io/post-images/1590457423241.jpg" alt="" loading="lazy"><br>
+二、安装Homebrew （https://brew.sh/）<br>
+/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&quot;<br>
+三、安装常用工具<br>
+brew install wget<br>
+brew install curl<br>
+brew install git<br>
+brew install cocoapods<br>
+brew install kotlin<br>
+brew install dart<br>
+brew install python3</p>
+<p>brew install zsh<br>
+brew cask install iterm2</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GS车机软件安装及升级]]></title>
+        <id>https://LzBoy.github.io/post/gs/</id>
+        <link href="https://LzBoy.github.io/post/gs/">
+        </link>
+        <updated>2020-04-29T06:47:30.000Z</updated>
+        <content type="html"><![CDATA[<p>软件安装步骤：</p>
+<p>1.准备U盘，格式化并创建appsinstall文件夹，把需要安装的APP拷贝到文件夹里<br>
+2.启动车机系统进入拨号界面输入#*95279527，选择U盘安装apk<br>
+3.点击安装</p>
+<p>高德地图升级：</p>
+<p>1.恢复出厂设置<br>
+2.安装KingRoot获取系统root权限<br>
+3.卸载系统自带的高德地图<br>
+4.清除高德地图资源和日志（拨号界面输入#*32279进入工程模式，操作密码369963）<br>
+5.安装最新版高德地图<br>
+6.关闭root功能</p>
+]]></content>
+    </entry>
+</feed>
